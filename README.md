@@ -7,3 +7,4 @@ MFC_GUI_Server
 it receives some information about patient's state on the bed, bed state information such as siderail.
 if Server Detect hazard like falling to floor from the bed, it record logs and show warning.
 
+![image](https://user-images.githubusercontent.com/73636917/102028350-0b3ca780-3ded-11eb-8695-0f8456d61fae.png)
