@@ -1,4 +1,4 @@
-# Graduate-Paper
+# Smart-Bed-for-monitoring-system
 
 Raspberry Pi Client
 it has 4 FSR, 1 Sound Sensor, 1 Interrupt Button and use TCP and operates asynchronously.
